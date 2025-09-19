@@ -84,7 +84,7 @@ Below is a sample openssl build script.
 ~~~shell
 #!/bin/sh
 
-export ANDROID_NDK_HOME=/Users/user/Library/Android/sdk/ndk/27.0.12077973
+export ANDROID_NDK_HOME=/Users/user/Library/Android/sdk/ndk/28.2.13676358
 PATH=$ANDROID_NDK_HOME/toolchains/llvm/prebuilt/darwin-x86_64/bin:$PATH
 make clean
 ./Configure android-arm64 -D__ANDROID_API__=29
