@@ -1,6 +1,6 @@
 name: flutter_minizip_ng
 description: "A plug-in that can access minizip-ng API via FFI ."
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
